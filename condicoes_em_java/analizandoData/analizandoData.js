@@ -2,6 +2,7 @@
 let saida = document.getElementById("saida")
 
 function data(){
+    
 let d = new Date()
 let dias = ["Dom", "Seg", "Ter", "Qua", "Qui", "Sex", "Sab", ]
 let meses = ["Jan", "Fev", "Mar", "Abr", "Mai", "Jun", "Jul", "Ago", "Set", "Out", "Nov", "Dez", ]
