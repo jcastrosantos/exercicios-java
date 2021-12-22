@@ -26,10 +26,6 @@ let meses = ["Jan", "Fev", "Mar", "Abr", "Mai", "Jun", "Jul", "Ago", "Set", "Out
 
 }
 
-
-
-
-
 // console.log(d)
 // console.log(d.getDate())
 // console.log(meses[d.getMonth()])
